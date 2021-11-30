@@ -299,6 +299,9 @@ img{
     
     
     }
+    .footer ul{
+        display: none;
+    }
     .cloud .container { display: 1fr;}
 }
 /*mobile*/
