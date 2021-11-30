@@ -266,7 +266,8 @@ img{
     flex-direction: column;}
 
     .navbar ul{
-        display:inline-block;
+        display:inline-flex;
+        font-size:10px
         padding: 10px;
         background-color: rgba(0,0,0,0.1);
 
